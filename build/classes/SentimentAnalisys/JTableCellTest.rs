@@ -1,0 +1,3 @@
+SentimentAnalisys.CustomEditor
+SentimentAnalisys.JTableCellTest
+SentimentAnalisys.CustomCellRenderer
